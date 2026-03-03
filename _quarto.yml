@@ -1,0 +1,12 @@
+project:
+  title: "PH 280 Project 7: Learning from Data"
+  output-dir: output
+
+format:
+  html:
+    toc: true
+    code-fold: true
+    theme: cosmo
+  typst:
+    toc: true
+    number-sections: true

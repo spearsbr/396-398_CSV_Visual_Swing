@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "build_report",
+      "setup": "",
+	"run": "bash .github/classroom_scripts/do_check.sh",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}

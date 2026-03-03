@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.venv
+venv/
+ENV/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.jupyter/
+
+# Quarto
+.quarto/
+_cache/
+_freeze/
+_extensions/
+output/
+*.html
+.Rhistory
+.Rproj.user/
+site_libs/
+
+# Data & outputs
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+*.csv.bak
+*-backups/
+*.tar.gz
+*.zip
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+.vim/
+
+# OS
+Thumbs.db
+.AppleDouble
+.LSOverride
+._*
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+*.log
